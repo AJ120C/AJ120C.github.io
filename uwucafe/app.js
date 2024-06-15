@@ -235,19 +235,19 @@ Menus = [
         "name": "Meowcaroons 4x6",
         "cost": 6,
         "category": 6,
-        "image": "Meowcaroons4x6.png"
+        "image": "meowcaroons.png"
     },
     {
         "name": "Meowcaroons 8x12",
         "cost": 12,
         "category": 6,
-        "image": "Meowcaroons8x12.png"
+        "image": "meowcaroons.png"
     },
     {
         "name": "Meowcaroons 12X20",
         "cost": 20,
         "category": 6,
-        "image": "Meowcaroons12X20.png"
+        "image": "meowcaroons.png"
     }
 ]
 
