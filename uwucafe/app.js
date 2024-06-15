@@ -109,7 +109,7 @@ Menus = [
         "name": "Chicken noodle Soup",
         "cost": 100,
         "category": 3,
-        "image": "ChickennoodleSoup.png"
+        "image": "chickennoodlesoup.PNG"
     },
     {
         "name": "Kitty Rice Balls",
@@ -193,7 +193,7 @@ Menus = [
         "name": "Boba Tea",
         "cost": 60,
         "category": 5,
-        "image": "BobaTea.png"
+        "image": "Bobatea.png"
     },
     {
         "name": "Lovely Hot Chocolate",
