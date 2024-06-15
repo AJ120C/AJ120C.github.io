@@ -193,7 +193,7 @@ Menus = [
         "name": "Boba Tea",
         "cost": 60,
         "category": 5,
-        "image": "Bobatea.png"
+        "image": "BobaTea.png"
     },
     {
         "name": "Lovely Hot Chocolate",
