@@ -40,14 +40,8 @@ Menus = [
         "image": "PawcakesCombo.png"
     },
     {
-        "name": "Fourth of July Meal",
-        "cost": 175,
-        "category": 1,
-        "image": "FourthofJulyMeal.png"
-    },
-    {
         "name": "Bandit Combo",
-        "cost": 150,
+        "cost": 350,
         "category": 1,
         "image": "BanditCombo.png"
     },
@@ -191,7 +185,7 @@ Menus = [
     },
     {
         "name": "Boba Tea",
-        "cost": 100,
+        "cost": 150,
         "category": 5,
         "image": "BobaTea.png"
     },
