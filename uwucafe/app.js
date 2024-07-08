@@ -83,19 +83,19 @@ Menus = [
     },
     {
         "name": "California Sushi Roll Platter",
-        "cost": 200,
+        "cost": 300,
         "category": 2,
         "image": "CaliforniaSushiRollPlatter.png"
     },
     {
         "name": "Tempura Dragon Sushi Roll Platter",
-        "cost": 200,
+        "cost": 300,
         "category": 2,
         "image": "TempuraDragonSushiRollPlatter.png"
     },
     {
         "name": "Spicy Girl Sushi Roll Platter",
-        "cost": 200,
+        "cost": 300,
         "category": 2,
         "image": "SpicyGirlSushiRollPlatter.png"
     },
@@ -125,7 +125,7 @@ Menus = [
     },
     {
         "name": "Korean Corn Dogs",
-        "cost": 100,
+        "cost": 250,
         "category": 3,
         "image": "KoreanCornDogs.png"
     },
