@@ -185,7 +185,7 @@ Menus = [
     },
     {
         "name": "Boba Tea",
-        "cost": 150,
+        "cost": 200,
         "category": 5,
         "image": "BobaTea.png"
     },
@@ -214,8 +214,8 @@ Menus = [
         "image": "Pinklemonade.png"
     },
     {
-        "name": "Bubble Tea",
-        "cost": 150,
+        "name": "Bubble Teas",
+        "cost": 350,
         "category": 5,
         "image": "BubbleTea.png"
     },
