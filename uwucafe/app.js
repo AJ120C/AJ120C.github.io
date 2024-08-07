@@ -185,7 +185,7 @@ Menus = [
     },
     {
         "name": "Boba Tea",
-        "cost": 200,
+        "cost": 350,
         "category": 5,
         "image": "BobaTea.png"
     },
