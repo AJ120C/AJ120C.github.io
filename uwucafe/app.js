@@ -148,58 +148,34 @@ Menus = [
         "image": "chorizopie.png"
     },
     {
-        "name": "Ballaberry Cupcake",
-        "cost": 50,
+        "name": "Munckin bat Bucket",
+        "cost": 250,
         "category": 4,
-        "image": "BallaberryCupcake.png"
+        "image": "wholebucket.png"
     },
     {
-        "name": "Dragon Fire Cupcake",
-        "cost": 50,
+        "name": "Pumpkin Sugar Cookies",
+        "cost": 250,
         "category": 4,
-        "image": "DragonFireCupcake.png"
+        "image": "uwucookieplate.png"
     },
     {
-        "name": "Meowchi Mochi Ice Cream",
-        "cost": 30,
+        "name": "Spider Doughnut",
+        "cost": 250,
         "category": 4,
-        "image": "MeowchiMochiIceCream.png"
+        "image": "spiderdoughnut.png"
     },
     {
-        "name": "Ginger Kitty Cookie",
-        "cost": 30,
+        "name": "Mummified Concha",
+        "cost": 250,
         "category": 4,
-        "image": "GingerKittyCookie.png"
+        "image": "mummyconcha.png"
     },
     {
-        "name": "Purrfect Parfait",
-        "cost": 40,
+        "name": "Graveyard 3 Leches Cake",
+        "cost": 250,
         "category": 4,
-        "image": "PurrfectParfait.png"
-    },
-    {
-        "name": "Oxygen Cake",
-        "cost": 200,
-        "category": 4,
-        "image": "OxygenCake.png"
-    },
-    {
-        "name": "Strawberry Shortcake",
-        "cost": 200,
-        "category": 4,
-        "image": "StrawberryShortcake.png"
-    },
-    {
-        "name": "Firework Cookies",
-        "cost": 30,
-        "category": 4,
-        "image": "FireworkCookies.png"
-    },
-    {
-        "name": "UwU Bomb Pop",
-        "cost": 15,
-        "category": 4,
-        "image": "UwUBombPop.png"
+        "image": "uwuflan.png"
     },
     {
         "name": "Boba Tea",
