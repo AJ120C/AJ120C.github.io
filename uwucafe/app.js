@@ -178,40 +178,40 @@ Menus = [
         "image": "uwuflan.png"
     },
     {
-        "name": "Boba Tea",
-        "cost": 350,
-        "category": 5,
-        "image": "BobaTea.png"
-    },
-    {
-        "name": "Lovely Hot Chocolate",
-        "cost": 55,
-        "category": 5,
-        "image": "LovelyHotChocolate.png"
-    },
-    {
-        "name": "Matcha Coffee",
-        "cost": 55,
-        "category": 5,
-        "image": "MatchaCoffee.png"
-    },
-    {
-        "name": "Sweet Herbal Tea",
-        "cost": 50,
-        "category": 5,
-        "image": "SweetHerbalTea.png"
-    },
-    {
-        "name": "Pink lemonade",
-        "cost": 40,
-        "category": 5,
-        "image": "Pinklemonade.png"
-    },
-    {
         "name": "Bubble Teas",
         "cost": 350,
         "category": 5,
         "image": "BubbleTea.png"
+    },
+    {
+        "name": "Pumpkin Spice Frapp",
+        "cost": 400,
+        "category": 5,
+        "image": "uwuspookyfrap.png"
+    },
+    {
+        "name": "Pumpkin Cream Cold Brew",
+        "cost": 400,
+        "category": 5,
+        "image": "pumpkinccb.png"
+    },
+    {
+        "name": "Witches Iced Potion Latte",
+        "cost": 400,
+        "category": 5,
+        "image": "potionlatte.png"
+    },
+    {
+        "name": "Apple Crisp Macchiato",
+        "cost": 400,
+        "category": 5,
+        "image": "applecrispm.png"
+    },
+    {
+        "name": "Skully Almond Oatmilk Espresso",
+        "cost": 400,
+        "category": 5,
+        "image": "almondoatespresso.png"
     },
     {
         "name": "Meowcaroons 1X2",
