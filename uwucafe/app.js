@@ -100,12 +100,6 @@ Menus = [
         "image": "DokiDokiPancakes.png"
     },
     {
-        "name": "Kitty Shish kabobs",
-        "cost": 80,
-        "category": 2,
-        "image": "KittyShishkabobs.png"
-    },
-    {
         "name": "California Sushi Roll Platter",
         "cost": 300,
         "category": 2,
