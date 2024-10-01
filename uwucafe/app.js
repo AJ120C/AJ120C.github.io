@@ -40,10 +40,34 @@ Menus = [
         "image": "PawcakesCombo.png"
     },
     {
-        "name": "Bandit Combo",
-        "cost": 350,
+        "name": "Screamers",
+        "cost": 1350,
         "category": 1,
-        "image": "BanditCombo.png"
+        "image": ""
+    },
+    {
+        "name": "Death Coffin",
+        "cost": 1350,
+        "category": 1,
+        "image": ""
+    },
+    {
+        "name": "CaspersGo2",
+        "cost": 1350,
+        "category": 1,
+        "image": ""
+    },
+    {
+        "name": "Horrori-Boo",
+        "cost": 1350,
+        "category": 1,
+        "image": ""
+    },
+    {
+        "name": "Boogeyman",
+        "cost": 1350,
+        "category": 1,
+        "image": ""
     },
     {
         "name": "Om Nom Omurice",
