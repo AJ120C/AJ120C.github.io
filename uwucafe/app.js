@@ -124,6 +124,36 @@ Menus = [
         "image": "SpicyGirlSushiRollPlatter.png"
     },
     {
+        "name": "Boo Pot Pie",
+        "cost": 400,
+        "category": 2,
+        "image": "uwuBooPotpie.png"
+    },
+    {
+        "name": "Mixed Roll Coffin",
+        "cost": 400,
+        "category": 2,
+        "image": "uwumixedtollbox.png"
+    },
+    {
+        "name": "Ghostly Bacon Mac & Cheese",
+        "cost": 400,
+        "category": 2,
+        "image": "spookymacandcheese.png"
+    },
+    {
+        "name": "Jack-O-Lanter Quesadillas",
+        "cost": 400,
+        "category": 2,
+        "image": "pumpkinqeso.png"
+    },
+    {
+        "name": "Ghostly Dumplings",
+        "cost": 400,
+        "category": 2,
+        "image": "ghostlydumplings.png"
+    },
+    {
         "name": "Chicken noodle Soup",
         "cost": 100,
         "category": 3,
