@@ -166,12 +166,6 @@ Menus = [
         "image": "Ricebowl.png"
     },
     {
-        "name": "House Salad",
-        "cost": 15,
-        "category": 3,
-        "image": "HouseSalad.png"
-    },
-    {
         "name": "Korean Corn Dogs",
         "cost": 250,
         "category": 3,
