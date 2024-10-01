@@ -70,36 +70,6 @@ Menus = [
         "image": ""
     },
     {
-        "name": "Om Nom Omurice",
-        "cost": 165,
-        "category": 2,
-        "image": "OmNomOmurice.png"
-    },
-    {
-        "name": "Sugio Cat Su Sando",
-        "cost": 160,
-        "category": 2,
-        "image": "SugioCatSuSando.png"
-    },
-    {
-        "name": "Kira Kira Curry",
-        "cost": 135,
-        "category": 2,
-        "image": "KiraKiraCurry.png"
-    },
-    {
-        "name": "Hamburg Steak",
-        "cost": 155,
-        "category": 2,
-        "image": "HamburgSteak.png"
-    },
-    {
-        "name": "Doki Doki Pancakes",
-        "cost": 100,
-        "category": 2,
-        "image": "DokiDokiPancakes.png"
-    },
-    {
         "name": "California Sushi Roll Platter",
         "cost": 300,
         "category": 2,
@@ -148,28 +118,34 @@ Menus = [
         "image": "ghostlydumplings.png"
     },
     {
-        "name": "Chicken noodle Soup",
-        "cost": 100,
-        "category": 3,
-        "image": "chickennoodlesoup.PNG"
-    },
-    {
-        "name": "Kitty Rice Balls",
-        "cost": 45,
-        "category": 3,
-        "image": "KittyRiceBalls.png"
-    },
-    {
-        "name": "Rice bowl",
-        "cost": 40,
-        "category": 3,
-        "image": "Ricebowl.png"
-    },
-    {
         "name": "Korean Corn Dogs",
         "cost": 250,
         "category": 3,
         "image": "KoreanCornDogs.png"
+    },
+    {
+        "name": "Spooky Spicy Ramen",
+        "cost": 250,
+        "category": 3,
+        "image": "spicyramen.png"
+    },
+    {
+        "name": "Spooky Miso Soup",
+        "cost": 250,
+        "category": 3,
+        "image": "uwumisosoup.png"
+    },
+    {
+        "name": "Spiders Web Hot Spinach Dip",
+        "cost": 250,
+        "category": 3,
+        "image": "spiderswebdip.png"
+    },
+    {
+        "name": "Chorizo Mini Pie",
+        "cost": 250,
+        "category": 3,
+        "image": "chorizopie.png"
     },
     {
         "name": "Ballaberry Cupcake",
