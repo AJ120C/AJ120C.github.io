@@ -43,31 +43,31 @@ Menus = [
         "name": "Screamers",
         "cost": 1350,
         "category": 1,
-        "image": ""
+        "image": "Screamers.png"
     },
     {
         "name": "Death Coffin",
         "cost": 1350,
         "category": 1,
-        "image": ""
+        "image": "deathcoffin.png"
     },
     {
         "name": "CaspersGo2",
         "cost": 1350,
         "category": 1,
-        "image": ""
+        "image": "Caspersgo2.png"
     },
     {
         "name": "Horrori-Boo",
         "cost": 1350,
         "category": 1,
-        "image": ""
+        "image": "horri.png"
     },
     {
         "name": "Boogeyman",
         "cost": 1350,
         "category": 1,
-        "image": ""
+        "image": "Boogey.png"
     },
     {
         "name": "California Sushi Roll Platter",
