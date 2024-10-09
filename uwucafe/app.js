@@ -88,12 +88,6 @@ Menus = [
         "image": "SpicyGirlSushiRollPlatter.png"
     },
     {
-        "name": "Boo Pot Pie",
-        "cost": 400,
-        "category": 2,
-        "image": "uwuBooPotpie.png"
-    },
-    {
         "name": "Mixed Roll Coffin",
         "cost": 400,
         "category": 2,
