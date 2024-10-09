@@ -100,6 +100,12 @@ Menus = [
         "image": "uwumixedtollbox.png"
     },
     {
+        "name": "Boo Pot Pie",
+        "cost": 400,
+        "category": 2,
+        "image": "uwuBooPotpie.png"
+    },
+    {
         "name": "Ghostly Bacon Mac & Cheese",
         "cost": 400,
         "category": 2,
