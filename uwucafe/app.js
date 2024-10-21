@@ -214,26 +214,26 @@ Menus = [
         "image": "almondoatespresso.png"
     },
     {
-        "name": "Meowcaroons 1X2",
-        "cost": 2,
+        "name": "Meowcaroons 1",
+        "cost": 1000,
         "category": 6,
         "image": "meowcaroons.png"
     },
     {
-        "name": "Meowcaroons 4x6",
-        "cost": 6,
+        "name": "Meowcaroons 6",
+        "cost": 6000,
         "category": 6,
         "image": "meowcaroons.png"
     },
     {
-        "name": "Meowcaroons 8x12",
-        "cost": 12,
+        "name": "Meowcaroons 12",
+        "cost": 12000,
         "category": 6,
         "image": "meowcaroons.png"
     },
     {
-        "name": "Meowcaroons 12X20",
-        "cost": 20,
+        "name": "Meowcaroons 20",
+        "cost": 20000,
         "category": 6,
         "image": "meowcaroons.png"
     }
