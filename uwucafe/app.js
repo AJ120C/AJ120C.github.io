@@ -184,25 +184,25 @@ Menus = [
         "image": "BubbleTea.png"
     },
     {
-        "name": "Meowcaroons 1X2",
+        "name": "Meowcaroons 1X",
         "cost": 1000,
         "category": 6,
         "image": "meowcaroons.png"
     },
     {
-        "name": "Meowcaroons 4x6",
+        "name": "Meowcaroons 4x",
         "cost": 4000,
         "category": 6,
         "image": "meowcaroons.png"
     },
     {
-        "name": "Meowcaroons 8x12",
+        "name": "Meowcaroons 8x",
         "cost":8000,
         "category": 6,
         "image": "meowcaroons.png"
     },
     {
-        "name": "Meowcaroons 12X20",
+        "name": "Meowcaroons 12X",
         "cost": 12,
         "category": 6,
         "image": "meowcaroons.png"
