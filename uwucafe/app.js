@@ -203,7 +203,7 @@ Menus = [
     },
     {
         "name": "Meowcaroons 12X",
-        "cost": 12,
+        "cost": 12000,
         "category": 6,
         "image": "meowcaroons.png"
     }
