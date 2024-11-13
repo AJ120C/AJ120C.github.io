@@ -40,36 +40,6 @@ Menus = [
         "image": "PawcakesCombo.png"
     },
     {
-        "name": "Screamers",
-        "cost": 1350,
-        "category": 1,
-        "image": ""
-    },
-    {
-        "name": "Death Coffin",
-        "cost": 1350,
-        "category": 1,
-        "image": ""
-    },
-    {
-        "name": "CaspersGo2",
-        "cost": 1350,
-        "category": 1,
-        "image": ""
-    },
-    {
-        "name": "Horrori-Boo",
-        "cost": 1350,
-        "category": 1,
-        "image": ""
-    },
-    {
-        "name": "Boogeyman",
-        "cost": 1350,
-        "category": 1,
-        "image": ""
-    },
-    {
         "name": "Om Nom Omurice",
         "cost": 165,
         "category": 2,
@@ -116,36 +86,6 @@ Menus = [
         "cost": 300,
         "category": 2,
         "image": "SpicyGirlSushiRollPlatter.png"
-    },
-    {
-        "name": "Boo Pot Pie",
-        "cost": 400,
-        "category": 2,
-        "image": "uwuBooPotpie.png"
-    },
-    {
-        "name": "Mixed Roll Coffin",
-        "cost": 400,
-        "category": 2,
-        "image": "uwumixedtollbox.png"
-    },
-    {
-        "name": "Ghostly Bacon Mac & Cheese",
-        "cost": 400,
-        "category": 2,
-        "image": "spookymacandcheese.png"
-    },
-    {
-        "name": "Jack-O-Lanter Quesadillas",
-        "cost": 400,
-        "category": 2,
-        "image": "pumpkinqeso.png"
-    },
-    {
-        "name": "Ghostly Dumplings",
-        "cost": 400,
-        "category": 2,
-        "image": "ghostlydumplings.png"
     },
     {
         "name": "Chicken noodle Soup",
@@ -214,18 +154,6 @@ Menus = [
         "image": "StrawberryShortcake.png"
     },
     {
-        "name": "Firework Cookies",
-        "cost": 30,
-        "category": 4,
-        "image": "FireworkCookies.png"
-    },
-    {
-        "name": "UwU Bomb Pop",
-        "cost": 15,
-        "category": 4,
-        "image": "UwUBombPop.png"
-    },
-    {
         "name": "Boba Tea",
         "cost": 350,
         "category": 5,
@@ -250,12 +178,6 @@ Menus = [
         "image": "SweetHerbalTea.png"
     },
     {
-        "name": "Pink lemonade",
-        "cost": 40,
-        "category": 5,
-        "image": "Pinklemonade.png"
-    },
-    {
         "name": "Bubble Teas",
         "cost": 350,
         "category": 5,
@@ -263,25 +185,25 @@ Menus = [
     },
     {
         "name": "Meowcaroons 1X2",
-        "cost": 2,
+        "cost": 1000,
         "category": 6,
         "image": "meowcaroons.png"
     },
     {
         "name": "Meowcaroons 4x6",
-        "cost": 6,
+        "cost": 4000,
         "category": 6,
         "image": "meowcaroons.png"
     },
     {
         "name": "Meowcaroons 8x12",
-        "cost": 12,
+        "cost":8000,
         "category": 6,
         "image": "meowcaroons.png"
     },
     {
         "name": "Meowcaroons 12X20",
-        "cost": 20,
+        "cost": 12,
         "category": 6,
         "image": "meowcaroons.png"
     }
