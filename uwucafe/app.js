@@ -88,6 +88,12 @@ Menus = [
         "image": "SpicyGirlSushiRollPlatter.png"
     },
     {
+        "name": "Bandit Pizza Bites",
+        "cost": 350,
+        "category": 2,
+        "image": ""
+    },
+    {
         "name": "Chicken noodle Soup",
         "cost": 100,
         "category": 3,
