@@ -260,7 +260,6 @@ Menus = [
         "cost": 150,
         "category": 6,
         "image": "AcornCP.png"
-    },
     {
 ]
 
