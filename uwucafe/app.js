@@ -40,6 +40,12 @@ Menus = [
         "image": "PawcakesCombo.png"
     },
     {
+        "name": "Thanksgiving Special",
+        "cost": 1500,
+        "category": 1,
+        "image": "TM.png"
+    },
+    {
         "name": "Om Nom Omurice",
         "cost": 165,
         "category": 2,
@@ -91,7 +97,13 @@ Menus = [
         "name": "Bandit Pizza Bites",
         "cost": 350,
         "category": 2,
-        "image": ""
+        "image": "pizzabites.png"
+    },
+    {
+        "name": "Soboro Don",
+        "cost": 400,
+        "category": 2,
+        "image": "SD.png"
     },
     {
         "name": "Chicken noodle Soup",
@@ -116,6 +128,12 @@ Menus = [
         "cost": 250,
         "category": 3,
         "image": "KoreanCornDogs.png"
+    },
+    {
+        "name": "Pot Roast",
+        "cost": 400,
+        "category": 3,
+        "image": "beefstew.png"
     },
     {
         "name": "Ballaberry Cupcake",
@@ -160,6 +178,12 @@ Menus = [
         "image": "StrawberryShortcake.png"
     },
     {
+        "name": "Pumpkin Pie",
+        "cost": 400,
+        "category": 4,
+        "image": "PumpkinCP.png"
+    },
+    {
         "name": "Boba Tea",
         "cost": 350,
         "category": 5,
@@ -190,6 +214,12 @@ Menus = [
         "image": "BubbleTea.png"
     },
     {
+        "name": "Gobble Gobble Cappuccino",
+        "cost": 400,
+        "category": 5,
+        "image": "gobblec.png"
+    },
+    {
         "name": "Meowcaroons 1X",
         "cost": 1000,
         "category": 6,
@@ -212,6 +242,24 @@ Menus = [
         "cost": 12000,
         "category": 6,
         "image": "meowcaroons.png"
+    }
+    {
+        "name": "Turkey Cake Pop",
+        "cost": 150,
+        "category": 6,
+        "image": "TurkeyCP.png"}
+    }
+    {
+        "name": "Pumpkin Cake Pop",
+        "cost": 150,
+        "category": 6,
+        "image": "PumpkinCP.png"
+    }
+    {
+        "name": "Acorn Cake Pop",
+        "cost": 150,
+        "category": 6,
+        "image": "AcornCP.png"
     }
 ]
 
