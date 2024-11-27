@@ -242,25 +242,26 @@ Menus = [
         "cost": 12000,
         "category": 6,
         "image": "meowcaroons.png"
-    }
+    },
     {
         "name": "Turkey Cake Pop",
         "cost": 150,
         "category": 6,
         "image": "TurkeyCP.png"}
-    }
+    },
     {
         "name": "Pumpkin Cake Pop",
         "cost": 150,
         "category": 6,
         "image": "PumpkinCP.png"
-    }
+    },
     {
         "name": "Acorn Cake Pop",
         "cost": 150,
         "category": 6,
         "image": "AcornCP.png"
-    }
+    },
+    {
 ]
 
 
