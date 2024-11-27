@@ -247,7 +247,7 @@ Menus = [
         "name": "Turkey Cake Pop",
         "cost": 150,
         "category": 6,
-        "image": "TurkeyCP.png"}
+        "image": "TurkeyCP.png"
     },
     {
         "name": "Pumpkin Cake Pop",
