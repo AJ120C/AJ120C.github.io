@@ -181,7 +181,7 @@ Menus = [
         "name": "Pumpkin Pie",
         "cost": 400,
         "category": 4,
-        "image": "PumpkinCP.png"
+        "image": "UwUPpie.png"
     },
     {
         "name": "Boba Tea",
