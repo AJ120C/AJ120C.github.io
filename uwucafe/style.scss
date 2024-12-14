@@ -268,15 +268,26 @@
                         cursor: pointer;
                         color: rgba(150, 150, 150, 1);
                     }
-                    .count{
+                    input {
                         width: 3.6111vh;
                         height: 3.2407vh;
                         background-color: rgba(122, 122, 122, 1);
-                        display: flex;
+                        // display: flex;
                         justify-content: center;
                         align-items: center;
                         color: #FFF;
+                        text-align: center;
+                        border: none;
                     }
+                    // .count{
+                    //     width: 3.6111vh;
+                    //     height: 3.2407vh;
+                    //     background-color: rgba(122, 122, 122, 1);
+                    //     display: flex;
+                    //     justify-content: center;
+                    //     align-items: center;
+                    //     color: #FFF;
+                    // }
                     .add{
                         width: 2.963vh;
                         height: 3.2407vh;
