@@ -106,6 +106,18 @@ Menus = [
         "image": "SD.png"
     },
     {
+        "name": "Soboro Don",
+        "cost": 400,
+        "category": 2,
+        "image": "SD.png"
+    },
+    {
+        "name": "Soboro Don",
+        "cost": 400,
+        "category": 2,
+        "image": "SD.png"
+    },
+    {
         "name": "Chicken noodle Soup",
         "cost": 100,
         "category": 3,
