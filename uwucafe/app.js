@@ -288,7 +288,7 @@ function createMenu() {
                             <h2><strong>${menu.cost}$</strong></h2>
                         </div>
                         <div class="add-to-basket-btn">
-                            <p>Add To Basket</p>
+                            <p>Add To Order</p>
                         </div>
                     </div>
             `;
