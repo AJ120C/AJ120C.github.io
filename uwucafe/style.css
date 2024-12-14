@@ -255,14 +255,15 @@
   cursor: pointer;
   color: rgb(150, 150, 150);
 }
-.mainbody .basket-container .order-content .order-item .add-container .count {
+.mainbody .basket-container .order-content .order-item .add-container input {
   width: 3.6111vh;
   height: 3.2407vh;
   background-color: rgb(122, 122, 122);
-  display: flex;
   justify-content: center;
   align-items: center;
   color: #FFF;
+  text-align: center;
+  border: none;
 }
 .mainbody .basket-container .order-content .order-item .add-container .add {
   width: 2.963vh;
