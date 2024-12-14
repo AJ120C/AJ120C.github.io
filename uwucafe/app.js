@@ -318,7 +318,7 @@ $(document).on('click', '.add-to-basket-btn', function () {
     //console.log(name, cost, image);
     if ( orderContent.find(`#${name}`).length > 0) {
         
-        orderContent.find(`#${name} > .add-container > .count`).text(parseInt(orderContent.find(`#${name} > .add-container > .count`).text()) + 1);
+        orderContent.find(`#${name} > .add-container > .count`).val(parseInt(orderContent.find(`#${name} > .add-container > .count`).val()) + 1);
         orderContent.find(`#${name} > .item-info > h2 > strong`).text(parseInt(orderContent.find(`#${name} > .item-info > h2 > strong`).text()) + 1 + 'x');
         $(".total-count").text(parseInt($(".total-count").text()) + cost + " $");
         return;
@@ -332,7 +332,8 @@ $(document).on('click', '.add-to-basket-btn', function () {
             </div>
             <div class="add-container">
                 <div class="decrese">-</div>
-                <div class="count">1</div>
+                <!-- <div class="count">1</div> -->
+                <input type="text" class="count" value="1">
                 <div class="add">+</div>
             </div>
             <div class="delete">
@@ -344,27 +345,47 @@ $(document).on('click', '.add-to-basket-btn', function () {
     orderContent.append(orderItem);
 });
 
+$(document).on('change', '.count', function () {
+    var count = parseInt($(this).val());
+    if (count < 1 || isNaN(count)) {
+        $(this).val(1);
+        count = 1;
+    }
+    $(this).parent().parent().find('.item-info > h2 > strong').text(count + 'x');
+    
+    var totalPrice = 0;
+    $(".order-content > div").each(function () {
+        var count = parseInt($(this).find('.count').val());
+        var cost = parseInt($(this).data('cost'));
+        totalPrice += count * cost;
+    });
+
+    $(".total-count").text(totalPrice + " $");
+
+});
+
+
 $(document).on('click', '.decrese', function () {
-    var count = parseInt($(this).parent().find('.count').text());
+    var count = parseInt($(this).parent().find('.count').val())//.text());
     if (count == 1) {
         $(this).parent().parent().remove();
         $(".total-count").text(parseInt($(".total-count").text()) - parseInt($(this).parent().parent().data('cost')) + " $");
     } else {
-        $(this).parent().find('.count').text(count - 1);
+        $(this).parent().find('.count').val(count - 1);//.text(count - 1);
         $(this).parent().parent().find('.item-info > h2 > strong').text(count - 1 + 'x');
         $(".total-count").text(parseInt($(".total-count").text()) - parseInt($(this).parent().parent().data('cost')) + " $");
     }
 });
 
 $(document).on('click', '.add', function () {
-    var count = parseInt($(this).parent().find('.count').text());
-    $(this).parent().find('.count').text(count + 1);
+    var count = parseInt($(this).parent().find('.count').val())//.text());
+    $(this).parent().find('.count').val(count + 1);//.text(count + 1);
     $(this).parent().parent().find('.item-info > h2 > strong').text(count + 1 + 'x');
     $(".total-count").text(parseInt($(".total-count").text()) + parseInt($(this).parent().parent().data('cost')) + " $");
 });
 
 $(document).on('click', '.delete', function () {
-    var count = parseInt($(this).parent().find('.count').text());
+    var count = parseInt($(this).parent().find('.count').val())//.text());
     var cost = parseInt($(this).parent().data('cost'));
     $(".total-count").text(parseInt($(".total-count").text()) - (count * cost) + " $");
     $(this).parent().remove();
@@ -386,7 +407,7 @@ $(document).on('click', '.coppy-order-btn', function () {
     orderContent.children().each(function () {
         var name = $(this).attr('id')
         var cost = $(this).data('cost');
-        var count = $(this).find('.count').text();
+        var count = $(this).find('.count').val()//.text();
 
         //order.push(count + 'x ' + name + ' ' + cost + '$');
         order.push(count + 'x ' + name);
@@ -404,6 +425,13 @@ $(document).on('click', '.coppy-order-btn', function () {
     }).catch(function(err) {
         console.error('Could not copy text: ', err);
     });
+
+    $(this).css('background-color', '#91ff5e');
+    $(this).find("h3").text('Order Copied');
+    setTimeout(() => {
+        $(this).css('background-color', '#FFC85E');
+        $(this).find("h3").text('Copy Order');
+    }, 2000);
 });
 
 $(document).on('click', '.dark-mode', function () {
