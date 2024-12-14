@@ -100,19 +100,19 @@ Menus = [
         "image": "pizzabites.png"
     },
     {
-        "name": "Soboro Don",
+        "name": "Soboro Don1",
         "cost": 400,
         "category": 2,
         "image": "SD.png"
     },
     {
-        "name": "Soboro Don",
+        "name": "Soboro Don1",
         "cost": 400,
         "category": 2,
         "image": "SD.png"
     },
     {
-        "name": "Soboro Don",
+        "name": "Soboro Don3",
         "cost": 400,
         "category": 2,
         "image": "SD.png"
