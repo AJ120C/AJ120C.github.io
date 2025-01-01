@@ -94,28 +94,28 @@ Menus = [
         "image": "pizzabites.png"
     },
     {
-        "name": "Soboro Don",
-        "cost": 400,
-        "category": 2,
-        "image": "SD.png"
+        "name": "Santa's Sliders",
+        "cost": 750,
+        "category": 3,
+        "image": "SS.png"
     },
     {
-        "name": "Chicken noodle Soup",
-        "cost": 100,
+        "name": "Cheddar Cornbread",
+        "cost": 750,
         "category": 3,
-        "image": "chickennoodlesoup.PNG"
+        "image": "Cheddar Cornbread.png"
     },
     {
-        "name": "Kitty Rice Balls",
-        "cost": 45,
+        "name": "Charcuterie Salad",
+        "cost": 750,
         "category": 3,
-        "image": "KittyRiceBalls.png"
+        "image": "CS.png"
     },
     {
-        "name": "Rice bowl",
-        "cost": 40,
+        "name": "Garlic Mashed Potatoes",
+        "cost": 750,
         "category": 3,
-        "image": "Ricebowl.png"
+        "image": "GMP.png"
     },
     {
         "name": "Korean Corn Dogs",
@@ -124,16 +124,16 @@ Menus = [
         "image": "KoreanCornDogs.png"
     },
     {
-        "name": "Pot Roast",
-        "cost": 400,
+        "name": "Stuffed Bell Peppers",
+        "cost": 750,
         "category": 3,
-        "image": "beefstew.png"
+        "image": "SBP.png"
     },
     {
         "name": "Ballaberry Cupcake",
         "cost": 50,
         "category": 4,
-        "image": "BallaberryCupcake.png"
+        "image": " BallaberryCupcake.png"
     },
     {
         "name": "Dragon Fire Cupcake",
