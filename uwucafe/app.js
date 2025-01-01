@@ -214,10 +214,34 @@ Menus = [
         "image": "BubbleTea.png"
     },
     {
-        "name": "Gobble Gobble Cappuccino",
-        "cost": 400,
+        "name": "Eggnog Frapp",
+        "cost": 900,
         "category": 5,
-        "image": "gobblec.png"
+        "image": "EF.png"
+    },
+    {
+        "name": "Apple Cider",
+        "cost": 900,
+        "category": 5,
+        "image": "AC.png"
+    },
+    {
+        "name": "Candy Cane Milkshake",
+        "cost": 900,
+        "category": 5,
+        "image": "CCMS.png"
+    },
+    {
+        "name": "Peppermint Mocha",
+        "cost": 900,
+        "category": 5,
+        "image": "PM.png"
+    },
+    {
+        "name": "Caramel Brulee Latte",
+        "cost": 900,
+        "category": 5,
+        "image": "CBL.png"
     },
     {
         "name": "Meowcaroons 1X",
@@ -242,24 +266,6 @@ Menus = [
         "cost": 12000,
         "category": 6,
         "image": "meowcaroons.png"
-    },
-    {
-        "name": "Turkey Cake Pop",
-        "cost": 150,
-        "category": 6,
-        "image": "TurkeyCP.png"
-    },
-    {
-        "name": "Pumpkin Cake Pop",
-        "cost": 150,
-        "category": 6,
-        "image": "PumpkinCP.png"
-    },
-    {
-        "name": "Acorn Cake Pop",
-        "cost": 150,
-        "category": 6,
-        "image": "AcornCP.png"
     }
 ]
 
