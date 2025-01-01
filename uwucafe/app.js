@@ -130,52 +130,58 @@ Menus = [
         "image": "SBP.png"
     },
     {
-        "name": "Ballaberry Cupcake",
-        "cost": 50,
+        "name": "Gingerbread",
+        "cost": 850,
         "category": 4,
-        "image": " BallaberryCupcake.png"
+        "image": "GB.png"
     },
     {
-        "name": "Dragon Fire Cupcake",
-        "cost": 50,
+        "name": "Xmas Cat Sugar Cookies",
+        "cost": 850,
         "category": 4,
-        "image": "DragonFireCupcake.png"
+        "image": "CSC.png"
     },
     {
-        "name": "Meowchi Mochi Ice Cream",
-        "cost": 30,
+        "name": "X-Mas Tree Sugar Cookie",
+        "cost": 850,
         "category": 4,
-        "image": "MeowchiMochiIceCream.png"
+        "image": "CTC.png"
     },
     {
-        "name": "Ginger Kitty Cookie",
-        "cost": 30,
+        "name": "Snow Flake Sugar Cookie",
+        "cost": 850,
         "category": 4,
-        "image": "GingerKittyCookie.png"
+        "image": "SFC.png"
     },
     {
-        "name": "Purrfect Parfait",
-        "cost": 40,
+        "name": "Churros",
+        "cost": 850,
         "category": 4,
-        "image": "PurrfectParfait.png"
+        "image": "MC.png"
     },
     {
-        "name": "Oxygen Cake",
-        "cost": 200,
+        "name": "Flan",
+        "cost": 850,
         "category": 4,
-        "image": "OxygenCake.png"
+        "image": "UF.png"
     },
     {
-        "name": "Strawberry Shortcake",
-        "cost": 200,
+        "name": "Taiyaki",
+        "cost": 850,
         "category": 4,
-        "image": "StrawberryShortcake.png"
+        "image": "Taiyaki.png"
     },
     {
-        "name": "Pumpkin Pie",
-        "cost": 400,
+        "name": "UwU Candy Cane",
+        "cost": 850,
         "category": 4,
-        "image": "UwUPpie.png"
+        "image": "CC.png"
+    },
+    {
+        "name": "New Years Sugar Cookies",
+        "cost": 850,
+        "category": 4,
+        "image": "NYC.png"
     },
     {
         "name": "Boba Tea",
