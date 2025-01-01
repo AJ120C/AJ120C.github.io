@@ -10,70 +10,64 @@ Categories = {
 
 Menus = [
     {
-        "name": "Lucky Bento Box Combo",
-        "cost": 500,
+        "name": "The Grinch Meal",
+        "cost": 1300,
         "category": 1,
         "image": "LuckyBentoBoxCombo.png"
     },
     {
-        "name": "9 Lives Combo",
-        "cost": 300,
+        "name": "The Santas Meal",
+        "cost": 1300,
         "category": 1,
         "image": "9LivesCombo.png"
     },
     {
-        "name": "Kitty Cat Meal",
-        "cost": 275,
+        "name": "RoudolfsGo2",
+        "cost": 1300,
         "category": 1,
         "image": "KittyCatMeal.png"
     },
     {
-        "name": "Cat Burglar Combo",
-        "cost": 260,
+        "name": "Northpole Meal",
+        "cost": 1300,
         "category": 1,
         "image": "CatBurglarCombo.png"
     },
     {
-        "name": "Pawcakes Combo",
-        "cost": 185,
+        "name": "Frostys Food Plate",
+        "cost": 1300,
         "category": 1,
         "image": "PawcakesCombo.png"
     },
     {
-        "name": "Thanksgiving Special",
-        "cost": 1500,
-        "category": 1,
-        "image": "TM.png"
+        "name": "Beef Wellington",
+        "cost": 900,
+        "category": 2,
+        "image": "BWS.png"
     },
     {
-        "name": "Om Nom Omurice",
-        "cost": 165,
+        "name": "Honey-Glazed Ham Steak",
+        "cost": 900,
         "category": 2,
-        "image": "OmNomOmurice.png"
+        "image": "HGHS.png"
     },
     {
-        "name": "Sugio Cat Su Sando",
-        "cost": 160,
+        "name": "Grilled Salmon with Dill Cream",
+        "cost": 900,
         "category": 2,
-        "image": "SugioCatSuSando.png"
+        "image": "GSDC.png"
     },
     {
-        "name": "Kira Kira Curry",
-        "cost": 135,
+        "name": "Chicken Cordon Bleu",
+        "cost": 900,
         "category": 2,
-        "image": "KiraKiraCurry.png"
+        "image": "CCB.png"
     },
     {
-        "name": "Hamburg Steak",
-        "cost": 155,
+        "name": "Truffle Mushroom Risotto",
+        "cost": 900,
         "category": 2,
-        "image": "HamburgSteak.png"
-    },
-    {
-        "name": "Doki Doki Pancakes",
-        "cost": 100,
-        "category": 2,
-        "image": "DokiDokiPancakes.png"
+        "image": "TMR.png"
     },
     {
         "name": "California Sushi Roll Platter",
