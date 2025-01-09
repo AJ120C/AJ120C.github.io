@@ -179,7 +179,7 @@ Menus = [
     },
     {
         "name": "New Years Sugar Cookies",
-        "cost": 850,
+        "cost": 1000,
         "category": 4,
         "image": "NYC.png"
     },
