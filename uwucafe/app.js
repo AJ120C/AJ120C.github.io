@@ -11,33 +11,33 @@ Categories = {
 Menus = [
     {
         "name": "The Grinch Meal",
-        "cost": 1300,
+        "cost": 3000,
         "category": 1,
-        "image": "LuckyBentoBoxCombo.png"
+        "image": "GMeal.png"
     },
     {
         "name": "The Santas Meal",
-        "cost": 1300,
+        "cost": 3000,
         "category": 1,
-        "image": "9LivesCombo.png"
+        "image": "SM.png"
     },
     {
         "name": "RoudolfsGo2",
-        "cost": 1300,
+        "cost": 3000,
         "category": 1,
-        "image": "KittyCatMeal.png"
+        "image": "RG2.png"
     },
     {
         "name": "Northpole Meal",
-        "cost": 1300,
+        "cost": 3000,
         "category": 1,
-        "image": "CatBurglarCombo.png"
+        "image": "NPM.png"
     },
     {
         "name": "Frostys Food Plate",
-        "cost": 1300,
+        "cost": 3000,
         "category": 1,
-        "image": "PawcakesCombo.png"
+        "image": "FFP.png"
     },
     {
         "name": "Beef Wellington",
@@ -94,12 +94,6 @@ Menus = [
         "image": "pizzabites.png"
     },
     {
-        "name": "Santa's Sliders",
-        "cost": 750,
-        "category": 3,
-        "image": "SS.png"
-    },
-    {
         "name": "Cheddar Cornbread",
         "cost": 750,
         "category": 3,
@@ -128,6 +122,12 @@ Menus = [
         "cost": 750,
         "category": 3,
         "image": "SBP.png"
+    },
+    {
+        "name": "Santa's Sliders",
+        "cost": 750,
+        "category": 3,
+        "image": "SS.png"
     },
     {
         "name": "Gingerbread",
