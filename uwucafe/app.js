@@ -130,6 +130,30 @@ Menus = [
         "image": "SS.png"
     },
     {
+        "name": "Santa's Sliders",
+        "cost": 750,
+        "category": 3,
+        "image": "SS.png"
+    },
+    {
+        "name": "Santa's Sliders",
+        "cost": 750,
+        "category": 3,
+        "image": "SS.png"
+    },
+    {
+        "name": "Santa's Sliders",
+        "cost": 750,
+        "category": 3,
+        "image": "SS.png"
+    },
+    {
+        "name": "Santa's Sliders",
+        "cost": 750,
+        "category": 3,
+        "image": "SS.png"
+    },
+    {
         "name": "Gingerbread",
         "cost": 850,
         "category": 4,
