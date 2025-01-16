@@ -124,25 +124,7 @@ Menus = [
         "image": "SBP.png"
     },
     {
-        "name": "Santa's Sliders",
-        "cost": 750,
-        "category": 3,
-        "image": "SS.png"
-    },
-    {
-        "name": "Santa's Sliders",
-        "cost": 750,
-        "category": 3,
-        "image": "SS.png"
-    },
-    {
-        "name": "Santa's Sliders",
-        "cost": 750,
-        "category": 3,
-        "image": "SS.png"
-    },
-    {
-        "name": "Santa's Sliders",
+        "name": "Santa's Sliderss",
         "cost": 750,
         "category": 3,
         "image": "SS.png"
