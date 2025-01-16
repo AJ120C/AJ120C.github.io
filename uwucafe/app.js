@@ -97,7 +97,7 @@ Menus = [
         "name": "Cheddar Cornbread",
         "cost": 750,
         "category": 3,
-        "image": "Cheddar Cornbread.png"
+        "image": "CheddarCornbread.png"
     },
     {
         "name": "Charcuterie Salad",
