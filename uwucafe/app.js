@@ -257,25 +257,25 @@ Menus = [
     },
     {
         "name": "Meowcaroons 1X",
-        "cost": 1000,
+        "cost": 10000,
         "category": 6,
         "image": "meowcaroons.png"
     },
     {
         "name": "Meowcaroons 4x",
-        "cost": 4000,
+        "cost": 10000,
         "category": 6,
         "image": "meowcaroons.png"
     },
     {
         "name": "Meowcaroons 8x",
-        "cost":8000,
+        "cost":10000,
         "category": 6,
         "image": "meowcaroons.png"
     },
     {
         "name": "Meowcaroons 12X",
-        "cost": 12000,
+        "cost": 10000,
         "category": 6,
         "image": "meowcaroons.png"
     }
