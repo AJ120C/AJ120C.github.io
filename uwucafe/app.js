@@ -256,28 +256,28 @@ Menus = [
         "image": "CBL.png"
     },
     {
-        "name": "Meowcaroons 1X",
+        "name": "Peppermint Meowcaroon *Unlimited Stamina*",
         "cost": 10000,
         "category": 6,
-        "image": "meowcaroons.png"
+        "image": "TurM.png"
     },
     {
-        "name": "Meowcaroons 4x",
-        "cost": 10000,
+        "name": "Mint Meowcaroon *Armor*",
+        "cost": 9000,
         "category": 6,
-        "image": "meowcaroons.png"
+        "image": "GM.png"
     },
     {
-        "name": "Meowcaroons 8x",
+        "name": "Strawberry Meowcaroon *Sprint Boost*",
         "cost":10000,
         "category": 6,
-        "image": "meowcaroons.png"
+        "image": "PinkM.png"
     },
     {
-        "name": "Meowcaroons 12X",
+        "name": "Chocolate Meowcaroon *Healing*",
         "cost": 10000,
         "category": 6,
-        "image": "meowcaroons.png"
+        "image": "BM.png"
     }
 ]
 
