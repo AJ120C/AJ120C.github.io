@@ -100,6 +100,12 @@ Menus = [
         "image": "CheddarCornbread.png"
     },
     {
+        "name": "Cheddar Cornbread",
+        "cost": 8000,
+        "category": 3,
+        "image": "CheddarCornbread.png"
+    },
+    {
         "name": "Charcuterie Salad",
         "cost": 750,
         "category": 3,
@@ -125,18 +131,6 @@ Menus = [
     },
     {
         "name": "Santa's Sliders",
-        "cost": 750,
-        "category": 3,
-        "image": "SBP.png"
-    },
-    {
-        "name": "Santa's S",
-        "cost": 750,
-        "category": 3,
-        "image": "SS.png"
-    },
-    {
-        "name": "Santa's Sss",
         "cost": 750,
         "category": 3,
         "image": "SS.png"
