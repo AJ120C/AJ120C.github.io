@@ -46,6 +46,12 @@ Menus = [
         "image": "BWS.png"
     },
     {
+        "name": "Chicken Fried Rice",
+        "cost": 1000,
+        "category": 2,
+        "image": "CFR.png"
+    },
+    {
         "name": "Honey-Glazed Ham Steak",
         "cost": 900,
         "category": 2,
@@ -100,10 +106,10 @@ Menus = [
         "image": "CheddarCornbread.png"
     },
     {
-        "name": "Cheddar Cornbread",
-        "cost": 8000,
+        "name": "Couples Egg Rolls",
+        "cost": 800,
         "category": 3,
-        "image": "CheddarCornbread.png"
+        "image": "ER.png"
     },
     {
         "name": "Charcuterie Salad",
@@ -188,6 +194,12 @@ Menus = [
         "cost": 1000,
         "category": 4,
         "image": "NYC.png"
+    },
+    {
+        "name": "Red Velvet Cake",
+        "cost": 900,
+        "category": 4,
+        "image": "RVC.png"
     },
     {
         "name": "Boba Tea",
