@@ -290,12 +290,6 @@ Menus = [
         "cost": 10000,
         "category": 6,
         "image": "BM.png"
-    },
-    {
-        "name": "Choc-Covered Strawberry Bouquet",
-        "cost": 2000,
-        "category": 6,
-        "image": "CBQ.png"
     }
 ]
 
