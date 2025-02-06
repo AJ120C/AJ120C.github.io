@@ -41,7 +41,7 @@ Menus = [
     },
     {
         "name": "Valentines Day Meal",
-        "cost": 4,500,
+        "cost": 4500,
         "category": 1,
         "image": "VDMC.png"
     },
@@ -295,7 +295,7 @@ Menus = [
         "name": "Choc Coverd Strawberry Bouquet",
         "cost": 2000,
         "category": 6,
-        "image": "VDMC.png"
+        "image": "CQB.png"
     }
 ]
 
