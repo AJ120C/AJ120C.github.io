@@ -40,6 +40,12 @@ Menus = [
         "image": "FFP.png"
     },
     {
+        "name": "Valentines Day Meal",
+        "cost": 4,500,
+        "category": 1,
+        "image": "VDMC.png"
+    },
+    {
         "name": "Beef Wellington",
         "cost": 900,
         "category": 2,
