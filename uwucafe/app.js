@@ -214,16 +214,16 @@ Menus = [
         "image": "LovelyHotChocolate.png"
     },
     {
-        "name": "Matcha Coffee",
-        "cost": 55,
+        "name": "Strawberry Peach Cream Refresher",
+        "cost": 1000,
         "category": 5,
-        "image": "MatchaCoffee.png"
+        "image": "SPR.png"
     },
     {
-        "name": "Sweet Herbal Tea",
-        "cost": 50,
+        "name": "Strawberry Shortcake Frapp",
+        "cost": 1000,
         "category": 5,
-        "image": "SweetHerbalTea.png"
+        "image": "SSF.png"
     },
     {
         "name": "Bubble Teas",
@@ -284,6 +284,12 @@ Menus = [
         "cost": 10000,
         "category": 6,
         "image": "BM.png"
+    },
+    {
+        "name": "Choc-Covered Strawberry Bouquet",
+        "cost": 2000,
+        "category": 6,
+        "image": "CBQ.png"
     }
 ]
 
