@@ -295,7 +295,7 @@ Menus = [
         "name": "Choc Coverd Strawberry Bouquet",
         "cost": 2000,
         "category": 6,
-        "image": "CQB.png"
+        "image": "CBQ.png"
     }
 ]
 
