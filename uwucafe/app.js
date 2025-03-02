@@ -40,10 +40,10 @@ Menus = [
         "image": "PawcakesCombo.png"
     },
     {
-        "name": "Thanksgiving Special",
-        "cost": 1500,
+        "name": "St. Patricks Meal",
+        "cost": 2200,
         "category": 1,
-        "image": "TM.png"
+        "image": ""
     },
     {
         "name": "Om Nom Omurice",
@@ -100,10 +100,10 @@ Menus = [
         "image": "pizzabites.png"
     },
     {
-        "name": "Soboro Don",
-        "cost": 400,
+        "name": "UwU Irish Stew",
+        "cost": 1000,
         "category": 2,
-        "image": "SD.png"
+        "image": "IrishStew.png"
     },
     {
         "name": "Chicken noodle Soup",
@@ -128,12 +128,6 @@ Menus = [
         "cost": 250,
         "category": 3,
         "image": "KoreanCornDogs.png"
-    },
-    {
-        "name": "Pot Roast",
-        "cost": 400,
-        "category": 3,
-        "image": "beefstew.png"
     },
     {
         "name": "Ballaberry Cupcake",
@@ -178,10 +172,10 @@ Menus = [
         "image": "StrawberryShortcake.png"
     },
     {
-        "name": "Pumpkin Pie",
-        "cost": 400,
+        "name": "Frosted Sugar Cookies",
+        "cost": 500,
         "category": 4,
-        "image": "UwUPpie.png"
+        "image": "Frostedsugarcookie.png"
     },
     {
         "name": "Boba Tea",
@@ -209,15 +203,15 @@ Menus = [
     },
     {
         "name": "Bubble Teas",
-        "cost": 350,
+        "cost": 1000,
         "category": 5,
         "image": "BubbleTea.png"
     },
     {
-        "name": "Gobble Gobble Cappuccino",
-        "cost": 400,
+        "name": "Lucky Shamrock Mint Shake",
+        "cost": 1000,
         "category": 5,
-        "image": "gobblec.png"
+        "image": "Mintshake.png"
     },
 {
         "name": "Peppermint Meowcaroon Unlimited Stamina",
