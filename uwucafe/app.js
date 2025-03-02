@@ -219,47 +219,29 @@ Menus = [
         "category": 5,
         "image": "gobblec.png"
     },
-    {
-        "name": "Meowcaroons 1X",
-        "cost": 1000,
+{
+        "name": "Peppermint Meowcaroon Unlimited Stamina",
+        "cost": 10000,
         "category": 6,
-        "image": "meowcaroons.png"
+        "image": "TurM.png"
     },
     {
-        "name": "Meowcaroons 4x",
-        "cost": 4000,
+        "name": "Mint Meowcaroon Armor",
+        "cost": 10000,
         "category": 6,
-        "image": "meowcaroons.png"
+        "image": "GM.png"
     },
     {
-        "name": "Meowcaroons 8x",
-        "cost":8000,
+        "name": "Strawberry Meowcaroon Sprint Boost",
+        "cost":10000,
         "category": 6,
-        "image": "meowcaroons.png"
+        "image": "PinkM.png"
     },
     {
-        "name": "Meowcaroons 12X",
-        "cost": 12000,
+        "name": "Chocolate Meowcaroon Healing",
+        "cost": 10000,
         "category": 6,
-        "image": "meowcaroons.png"
-    },
-    {
-        "name": "Turkey Cake Pop",
-        "cost": 150,
-        "category": 6,
-        "image": "TurkeyCP.png"
-    },
-    {
-        "name": "Pumpkin Cake Pop",
-        "cost": 150,
-        "category": 6,
-        "image": "PumpkinCP.png"
-    },
-    {
-        "name": "Acorn Cake Pop",
-        "cost": 150,
-        "category": 6,
-        "image": "AcornCP.png"
+        "image": "BM.png"
     }
 ]
 
