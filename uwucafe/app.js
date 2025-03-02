@@ -172,7 +172,7 @@ Menus = [
         "image": "StrawberryShortcake.png"
     },
     {
-        "name": "Frosted Sugar Cookies",
+        "name": "3x Frosted Sugar Cookies",
         "cost": 500,
         "category": 4,
         "image": "Frostedsugarcookie.png"
