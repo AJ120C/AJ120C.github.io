@@ -10,76 +10,70 @@ Categories = {
 
 Menus = [
     {
-        "name": "The Grinch Meal",
-        "cost": 3000,
+        "name": "Lucky Bento Box Combo",
+        "cost": 500,
         "category": 1,
-        "image": "GMeal.png"
+        "image": "LuckyBentoBoxCombo.png"
     },
     {
-        "name": "The Santas Meal",
-        "cost": 3000,
+        "name": "9 Lives Combo",
+        "cost": 300,
         "category": 1,
-        "image": "SM.png"
+        "image": "9LivesCombo.png"
     },
     {
-        "name": "RoudolfsGo2",
-        "cost": 3000,
+        "name": "Kitty Cat Meal",
+        "cost": 275,
         "category": 1,
-        "image": "RG2.png"
+        "image": "KittyCatMeal.png"
     },
     {
-        "name": "Northpole Meal",
-        "cost": 3000,
+        "name": "Cat Burglar Combo",
+        "cost": 260,
         "category": 1,
-        "image": "NPM.png"
+        "image": "CatBurglarCombo.png"
     },
     {
-        "name": "Frostys Food Plate",
-        "cost": 3000,
+        "name": "Pawcakes Combo",
+        "cost": 185,
         "category": 1,
-        "image": "FFP.png"
+        "image": "PawcakesCombo.png"
     },
     {
-        "name": "Valentines Day Meal",
-        "cost": 4500,
+        "name": "Thanksgiving Special",
+        "cost": 1500,
         "category": 1,
-        "image": "VDMC.png"
+        "image": "TM.png"
     },
     {
-        "name": "Beef Wellington",
-        "cost": 900,
+        "name": "Om Nom Omurice",
+        "cost": 165,
         "category": 2,
-        "image": "BWS.png"
+        "image": "OmNomOmurice.png"
     },
     {
-        "name": "Chicken Fried Rice",
-        "cost": 1000,
+        "name": "Sugio Cat Su Sando",
+        "cost": 160,
         "category": 2,
-        "image": "CFR.png"
+        "image": "SugioCatSuSando.png"
     },
     {
-        "name": "Honey-Glazed Ham Steak",
-        "cost": 900,
+        "name": "Kira Kira Curry",
+        "cost": 135,
         "category": 2,
-        "image": "HGHS.png"
+        "image": "KiraKiraCurry.png"
     },
     {
-        "name": "Grilled Salmon with Dill Cream",
-        "cost": 900,
+        "name": "Hamburg Steak",
+        "cost": 155,
         "category": 2,
-        "image": "GSDC.png"
+        "image": "HamburgSteak.png"
     },
     {
-        "name": "Chicken Cordon Bleu",
-        "cost": 900,
+        "name": "Doki Doki Pancakes",
+        "cost": 100,
         "category": 2,
-        "image": "CCB.png"
-    },
-    {
-        "name": "Truffle Mushroom Risotto",
-        "cost": 900,
-        "category": 2,
-        "image": "TMR.png"
+        "image": "DokiDokiPancakes.png"
     },
     {
         "name": "California Sushi Roll Platter",
@@ -106,28 +100,28 @@ Menus = [
         "image": "pizzabites.png"
     },
     {
-        "name": "Cheddar Cornbread",
-        "cost": 750,
-        "category": 3,
-        "image": "CheddarCornbread.png"
+        "name": "Soboro Don",
+        "cost": 400,
+        "category": 2,
+        "image": "SD.png"
     },
     {
-        "name": "Couples Egg Rolls",
-        "cost": 800,
+        "name": "Chicken noodle Soup",
+        "cost": 100,
         "category": 3,
-        "image": "ER.png"
+        "image": "chickennoodlesoup.PNG"
     },
     {
-        "name": "Charcuterie Salad",
-        "cost": 750,
+        "name": "Kitty Rice Balls",
+        "cost": 45,
         "category": 3,
-        "image": "CS.png"
+        "image": "KittyRiceBalls.png"
     },
     {
-        "name": "Garlic Mashed Potatoes",
-        "cost": 750,
+        "name": "Rice bowl",
+        "cost": 40,
         "category": 3,
-        "image": "GMP.png"
+        "image": "Ricebowl.png"
     },
     {
         "name": "Korean Corn Dogs",
@@ -136,76 +130,58 @@ Menus = [
         "image": "KoreanCornDogs.png"
     },
     {
-        "name": "Stuffed Bell Peppers",
-        "cost": 750,
+        "name": "Pot Roast",
+        "cost": 400,
         "category": 3,
-        "image": "SBP.png"
+        "image": "beefstew.png"
     },
     {
-        "name": "Santa's Sliders",
-        "cost": 750,
-        "category": 3,
-        "image": "SS.png"
-    },
-    {
-        "name": "Gingerbread",
-        "cost": 850,
+        "name": "Ballaberry Cupcake",
+        "cost": 50,
         "category": 4,
-        "image": "GB.png"
+        "image": "BallaberryCupcake.png"
     },
     {
-        "name": "Xmas Cat Sugar Cookies",
-        "cost": 850,
+        "name": "Dragon Fire Cupcake",
+        "cost": 50,
         "category": 4,
-        "image": "CSC.png"
+        "image": "DragonFireCupcake.png"
     },
     {
-        "name": "X-Mas Tree Sugar Cookie",
-        "cost": 850,
+        "name": "Meowchi Mochi Ice Cream",
+        "cost": 30,
         "category": 4,
-        "image": "CTC.png"
+        "image": "MeowchiMochiIceCream.png"
     },
     {
-        "name": "Snow Flake Sugar Cookie",
-        "cost": 850,
+        "name": "Ginger Kitty Cookie",
+        "cost": 30,
         "category": 4,
-        "image": "SFC.png"
+        "image": "GingerKittyCookie.png"
     },
     {
-        "name": "Churros",
-        "cost": 850,
+        "name": "Purrfect Parfait",
+        "cost": 40,
         "category": 4,
-        "image": "MC.png"
+        "image": "PurrfectParfait.png"
     },
     {
-        "name": "Flan",
-        "cost": 850,
+        "name": "Oxygen Cake",
+        "cost": 200,
         "category": 4,
-        "image": "UF.png"
+        "image": "OxygenCake.png"
     },
     {
-        "name": "Taiyaki",
-        "cost": 850,
+        "name": "Strawberry Shortcake",
+        "cost": 200,
         "category": 4,
-        "image": "Taiyaki.png"
+        "image": "StrawberryShortcake.png"
     },
     {
-        "name": "UwU Candy Cane",
-        "cost": 850,
+        "name": "Pumpkin Pie",
+        "cost": 400,
         "category": 4,
-        "image": "CC.png"
-    },
-    {
-        "name": "New Years Sugar Cookies",
-        "cost": 1000,
-        "category": 4,
-        "image": "NYC.png"
-    },
-    {
-        "name": "Red Velvet Cake",
-        "cost": 900,
-        "category": 4,
-        "image": "RVC.png"
+        "image": "UwUPpie.png"
     },
     {
         "name": "Boba Tea",
@@ -220,16 +196,16 @@ Menus = [
         "image": "LovelyHotChocolate.png"
     },
     {
-        "name": "Strawberry Peach Cream Refresher",
-        "cost": 1000,
+        "name": "Matcha Coffee",
+        "cost": 55,
         "category": 5,
-        "image": "SPR.png"
+        "image": "MatchaCoffee.png"
     },
     {
-        "name": "Strawberry Shortcake Frapp",
-        "cost": 1000,
+        "name": "Sweet Herbal Tea",
+        "cost": 50,
         "category": 5,
-        "image": "SSF.png"
+        "image": "SweetHerbalTea.png"
     },
     {
         "name": "Bubble Teas",
@@ -238,64 +214,52 @@ Menus = [
         "image": "BubbleTea.png"
     },
     {
-        "name": "Eggnog Frapp",
-        "cost": 900,
+        "name": "Gobble Gobble Cappuccino",
+        "cost": 400,
         "category": 5,
-        "image": "EF.png"
+        "image": "gobblec.png"
     },
     {
-        "name": "Apple Cider",
-        "cost": 900,
-        "category": 5,
-        "image": "AC.png"
-    },
-    {
-        "name": "Candy Cane Milkshake",
-        "cost": 900,
-        "category": 5,
-        "image": "CCMS.png"
-    },
-    {
-        "name": "Peppermint Mocha",
-        "cost": 900,
-        "category": 5,
-        "image": "PM.png"
-    },
-    {
-        "name": "Caramel Brulee Latte",
-        "cost": 900,
-        "category": 5,
-        "image": "CBL.png"
-    },
-    {
-        "name": "Peppermint Meowcaroon *Unlimited Stamina*",
-        "cost": 10000,
+        "name": "Meowcaroons 1X",
+        "cost": 1000,
         "category": 6,
-        "image": "TurM.png"
+        "image": "meowcaroons.png"
     },
     {
-        "name": "Mint Meowcaroon *Armor*",
-        "cost": 9000,
+        "name": "Meowcaroons 4x",
+        "cost": 4000,
         "category": 6,
-        "image": "GM.png"
+        "image": "meowcaroons.png"
     },
     {
-        "name": "Strawberry Meowcaroon *Sprint Boost*",
-        "cost":10000,
+        "name": "Meowcaroons 8x",
+        "cost":8000,
         "category": 6,
-        "image": "PinkM.png"
+        "image": "meowcaroons.png"
     },
     {
-        "name": "Chocolate Meowcaroon *Healing*",
-        "cost": 10000,
+        "name": "Meowcaroons 12X",
+        "cost": 12000,
         "category": 6,
-        "image": "BM.png"
+        "image": "meowcaroons.png"
     },
     {
-        "name": "Choc Coverd Strawberry Bouquet",
-        "cost": 2000,
+        "name": "Turkey Cake Pop",
+        "cost": 150,
         "category": 6,
-        "image": "CBQ.png"
+        "image": "TurkeyCP.png"
+    },
+    {
+        "name": "Pumpkin Cake Pop",
+        "cost": 150,
+        "category": 6,
+        "image": "PumpkinCP.png"
+    },
+    {
+        "name": "Acorn Cake Pop",
+        "cost": 150,
+        "category": 6,
+        "image": "AcornCP.png"
     }
 ]
 
