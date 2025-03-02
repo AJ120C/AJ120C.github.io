@@ -43,7 +43,7 @@ Menus = [
         "name": "St. Patricks Meal",
         "cost": 2200,
         "category": 1,
-        "image": ""
+        "image": "SPC.png"
     },
     {
         "name": "Om Nom Omurice",
