@@ -11,31 +11,31 @@ Categories = {
 Menus = [
     {
         "name": "Lucky Bento Box Combo",
-        "cost": 500,
+        "cost": 10000,
         "category": 1,
         "image": "LuckyBentoBoxCombo.png"
     },
     {
         "name": "9 Lives Combo",
-        "cost": 300,
+        "cost": 4000,
         "category": 1,
         "image": "9LivesCombo.png"
     },
     {
         "name": "Kitty Cat Meal",
-        "cost": 275,
+        "cost": 3500,
         "category": 1,
         "image": "KittyCatMeal.png"
     },
     {
         "name": "Cat Burglar Combo",
-        "cost": 260,
+        "cost": 3000,
         "category": 1,
         "image": "CatBurglarCombo.png"
     },
     {
         "name": "Pawcakes Combo",
-        "cost": 185,
+        "cost": 2500,
         "category": 1,
         "image": "PawcakesCombo.png"
     },
