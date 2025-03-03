@@ -47,55 +47,55 @@ Menus = [
     },
     {
         "name": "Om Nom Omurice",
-        "cost": 165,
+        "cost": 1200,
         "category": 2,
         "image": "OmNomOmurice.png"
     },
     {
         "name": "Sugio Cat Su Sando",
-        "cost": 160,
+        "cost": 1150,
         "category": 2,
         "image": "SugioCatSuSando.png"
     },
     {
         "name": "Kira Kira Curry",
-        "cost": 135,
+        "cost": 1100,
         "category": 2,
         "image": "KiraKiraCurry.png"
     },
     {
         "name": "Hamburg Steak",
-        "cost": 155,
+        "cost": 1050,
         "category": 2,
         "image": "HamburgSteak.png"
     },
     {
         "name": "Doki Doki Pancakes",
-        "cost": 100,
+        "cost": 1000,
         "category": 2,
         "image": "DokiDokiPancakes.png"
     },
     {
         "name": "California Sushi Roll Platter",
-        "cost": 300,
+        "cost": 1000,
         "category": 2,
         "image": "CaliforniaSushiRollPlatter.png"
     },
     {
         "name": "Tempura Dragon Sushi Roll Platter",
-        "cost": 300,
+        "cost": 1000,
         "category": 2,
         "image": "TempuraDragonSushiRollPlatter.png"
     },
     {
         "name": "Spicy Girl Sushi Roll Platter",
-        "cost": 300,
+        "cost": 1000,
         "category": 2,
         "image": "SpicyGirlSushiRollPlatter.png"
     },
     {
         "name": "Bandit Pizza Bites",
-        "cost": 350,
+        "cost": 1200,
         "category": 2,
         "image": "pizzabites.png"
     },
@@ -107,67 +107,67 @@ Menus = [
     },
     {
         "name": "Chicken noodle Soup",
-        "cost": 100,
+        "cost": 900,
         "category": 3,
         "image": "chickennoodlesoup.PNG"
     },
     {
         "name": "Kitty Rice Balls",
-        "cost": 45,
+        "cost": 750,
         "category": 3,
         "image": "KittyRiceBalls.png"
     },
     {
         "name": "Rice bowl",
-        "cost": 40,
+        "cost": 500,
         "category": 3,
         "image": "Ricebowl.png"
     },
     {
         "name": "Korean Corn Dogs",
-        "cost": 250,
+        "cost": 900,
         "category": 3,
         "image": "KoreanCornDogs.png"
     },
     {
         "name": "Ballaberry Cupcake",
-        "cost": 50,
+        "cost": 950,
         "category": 4,
         "image": "BallaberryCupcake.png"
     },
     {
         "name": "Dragon Fire Cupcake",
-        "cost": 50,
+        "cost": 950,
         "category": 4,
         "image": "DragonFireCupcake.png"
     },
     {
         "name": "Meowchi Mochi Ice Cream",
-        "cost": 30,
+        "cost": 900,
         "category": 4,
         "image": "MeowchiMochiIceCream.png"
     },
     {
         "name": "Ginger Kitty Cookie",
-        "cost": 30,
+        "cost": 850,
         "category": 4,
         "image": "GingerKittyCookie.png"
     },
     {
         "name": "Purrfect Parfait",
-        "cost": 40,
+        "cost": 900,
         "category": 4,
         "image": "PurrfectParfait.png"
     },
     {
         "name": "Oxygen Cake",
-        "cost": 200,
+        "cost": 1200,
         "category": 4,
         "image": "OxygenCake.png"
     },
     {
         "name": "Strawberry Shortcake",
-        "cost": 200,
+        "cost": 1200,
         "category": 4,
         "image": "StrawberryShortcake.png"
     },
@@ -179,31 +179,31 @@ Menus = [
     },
     {
         "name": "Boba Tea",
-        "cost": 350,
+        "cost": 1150,
         "category": 5,
         "image": "BobaTea.png"
     },
     {
         "name": "Lovely Hot Chocolate",
-        "cost": 55,
+        "cost": 1100,
         "category": 5,
         "image": "LovelyHotChocolate.png"
     },
     {
         "name": "Matcha Coffee",
-        "cost": 55,
+        "cost": 1050,
         "category": 5,
         "image": "MatchaCoffee.png"
     },
     {
         "name": "Sweet Herbal Tea",
-        "cost": 50,
+        "cost": 1050,
         "category": 5,
         "image": "SweetHerbalTea.png"
     },
     {
         "name": "Bubble Teas",
-        "cost": 1000,
+        "cost": 1200,
         "category": 5,
         "image": "BubbleTea.png"
     },
