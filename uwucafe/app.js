@@ -40,10 +40,10 @@ Menus = [
         "image": "PawcakesCombo.png"
     },
     {
-        "name": "St. Patricks Meal",
-        "cost": 2200,
+        "name": "Memorial Day Meal",
+        "cost": 0,
         "category": 1,
-        "image": "SPC.png"
+        "image": ""
     },
     {
         "name": "Om Nom Omurice",
