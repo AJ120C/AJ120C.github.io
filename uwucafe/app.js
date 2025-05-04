@@ -41,9 +41,9 @@ Menus = [
     },
     {
         "name": "Memorial Day Meal",
-        "cost": 0,
+        "cost": 2500,
         "category": 1,
-        "image": ""
+        "image": "FourthOfJulyMeal.png"
     },
     {
         "name": "Om Nom Omurice",
@@ -100,10 +100,10 @@ Menus = [
         "image": "pizzabites.png"
     },
     {
-        "name": "UwU Irish Stew",
-        "cost": 1000,
+        "name": "UwU Shish Kabobs",
+        "cost": 850,
         "category": 2,
-        "image": "IrishStew.png"
+        "image": "KittyShishkabobs.png"
     },
     {
         "name": "Chicken noodle Soup",
@@ -128,6 +128,12 @@ Menus = [
         "cost": 900,
         "category": 3,
         "image": "KoreanCornDogs.png"
+    },
+    {
+        "name": "UwU House Salad",
+        "cost": 700,
+        "category": 3,
+        "image": "HouseSalad.png"
     },
     {
         "name": "Ballaberry Cupcake",
@@ -172,10 +178,10 @@ Menus = [
         "image": "StrawberryShortcake.png"
     },
     {
-        "name": "Frosted Sugar Cookies",
-        "cost": 500,
+        "name": "Frosted Firework Sugar Cookies",
+        "cost": 800,
         "category": 4,
-        "image": "Frostedsugarcookie.png"
+        "image": "FireworkCookies.png"
     },
     {
         "name": "Boba Tea",
@@ -208,10 +214,10 @@ Menus = [
         "image": "BubbleTea.png"
     },
     {
-        "name": "Lucky Shamrock Mint Shake",
-        "cost": 1000,
+        "name": "Pink Lemonade",
+        "cost": 850,
         "category": 5,
-        "image": "Mintshake.png"
+        "image": "Pinklemonade.png"
     },
 {
         "name": "Peppermint Meowcaroon Unlimited Stamina",
