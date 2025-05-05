@@ -184,6 +184,12 @@ Menus = [
         "image": "FireworkCookies.png"
     },
     {
+        "name": "UwU Bomb Pop",
+        "cost": 500,
+        "category": 4,
+        "image": "UwUBombPop.png"
+    },
+    {
         "name": "Boba Tea",
         "cost": 1150,
         "category": 5,
