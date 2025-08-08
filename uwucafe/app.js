@@ -40,192 +40,156 @@ Menus = [
         "image": "PawcakesCombo.png"
     },
     {
-        "name": "4th Of July Day Meal",
-        "cost": 2500,
-        "category": 1,
-        "image": "FourthOfJulyMeal.png"
-    },
-    {
         "name": "Om Nom Omurice",
-        "cost": 1200,
+        "cost": 50,
         "category": 2,
         "image": "OmNomOmurice.png"
     },
     {
         "name": "Sugio Cat Su Sando",
-        "cost": 1150,
+        "cost": 50,
         "category": 2,
         "image": "SugioCatSuSando.png"
     },
     {
         "name": "Kira Kira Curry",
-        "cost": 1100,
+        "cost": 35,
         "category": 2,
         "image": "KiraKiraCurry.png"
     },
     {
         "name": "Hamburg Steak",
-        "cost": 1050,
+        "cost": 15,
         "category": 2,
         "image": "HamburgSteak.png"
     },
     {
         "name": "Doki Doki Pancakes",
-        "cost": 1000,
+        "cost": 30,
         "category": 2,
         "image": "DokiDokiPancakes.png"
     },
     {
         "name": "California Sushi Roll Platter",
-        "cost": 1000,
+        "cost": 50,
         "category": 2,
         "image": "CaliforniaSushiRollPlatter.png"
     },
     {
         "name": "Tempura Dragon Sushi Roll Platter",
-        "cost": 1000,
+        "cost": 50,
         "category": 2,
         "image": "TempuraDragonSushiRollPlatter.png"
     },
     {
         "name": "Spicy Girl Sushi Roll Platter",
-        "cost": 1000,
+        "cost": 50,
         "category": 2,
         "image": "SpicyGirlSushiRollPlatter.png"
     },
     {
         "name": "Bandit Pizza Bites",
-        "cost": 1200,
+        "cost": 25,
         "category": 2,
         "image": "pizzabites.png"
     },
     {
-        "name": "UwU Shish Kabobs",
-        "cost": 850,
-        "category": 2,
-        "image": "KittyShishkabobs.png"
-    },
-    {
         "name": "Chicken noodle Soup",
-        "cost": 900,
+        "cost": 40,
         "category": 3,
         "image": "chickennoodlesoup.PNG"
     },
     {
         "name": "Kitty Rice Balls",
-        "cost": 750,
+        "cost": 25,
         "category": 3,
         "image": "KittyRiceBalls.png"
     },
     {
         "name": "Rice bowl",
-        "cost": 500,
+        "cost": 5,
         "category": 3,
         "image": "Ricebowl.png"
     },
     {
         "name": "Korean Corn Dogs",
-        "cost": 900,
+        "cost": 20,
         "category": 3,
         "image": "KoreanCornDogs.png"
     },
     {
-        "name": "UwU House Salad",
-        "cost": 700,
-        "category": 3,
-        "image": "HouseSalad.png"
-    },
-    {
         "name": "Ballaberry Cupcake",
-        "cost": 950,
+        "cost": 35,
         "category": 4,
         "image": "BallaberryCupcake.png"
     },
     {
         "name": "Dragon Fire Cupcake",
-        "cost": 950,
+        "cost": 30,
         "category": 4,
         "image": "DragonFireCupcake.png"
     },
     {
         "name": "Meowchi Mochi Ice Cream",
-        "cost": 900,
+        "cost": 15,
         "category": 4,
         "image": "MeowchiMochiIceCream.png"
     },
     {
         "name": "Ginger Kitty Cookie",
-        "cost": 850,
+        "cost": 25,
         "category": 4,
         "image": "GingerKittyCookie.png"
     },
     {
         "name": "Purrfect Parfait",
-        "cost": 900,
+        "cost": 25,
         "category": 4,
         "image": "PurrfectParfait.png"
     },
     {
         "name": "Oxygen Cake",
-        "cost": 1200,
+        "cost": 40,
         "category": 4,
         "image": "OxygenCake.png"
     },
     {
         "name": "Strawberry Shortcake",
-        "cost": 1200,
+        "cost": 40,
         "category": 4,
         "image": "StrawberryShortcake.png"
     },
     {
-        "name": "Frosted Firework Sugar Cookies",
-        "cost": 800,
-        "category": 4,
-        "image": "FireworkCookies.png"
-    },
-    {
-        "name": "UwU Bomb Pop",
-        "cost": 500,
-        "category": 4,
-        "image": "UwUBombPop.png"
-    },
-    {
         "name": "Boba Tea",
-        "cost": 1150,
+        "cost": 30,
         "category": 5,
         "image": "BobaTea.png"
     },
     {
         "name": "Lovely Hot Chocolate",
-        "cost": 1100,
+        "cost": 30,
         "category": 5,
         "image": "LovelyHotChocolate.png"
     },
     {
         "name": "Matcha Coffee",
-        "cost": 1050,
+        "cost": 25,
         "category": 5,
         "image": "MatchaCoffee.png"
     },
     {
         "name": "Sweet Herbal Tea",
-        "cost": 1050,
+        "cost": 30,
         "category": 5,
         "image": "SweetHerbalTea.png"
     },
     {
         "name": "Bubble Teas",
-        "cost": 1200,
+        "cost": 40,
         "category": 5,
         "image": "BubbleTea.png"
     },
     {
-        "name": "Pink Lemonade",
-        "cost": 850,
-        "category": 5,
-        "image": "Pinklemonade.png"
-    },
-{
         "name": "Peppermint Meowcaroon Unlimited Stamina",
         "cost": 10000,
         "category": 6,
@@ -433,3 +397,4 @@ $(document).on('click', '.dark-mode', function () {
     //$(".item-info").toggleClass('dark-text');
     console.log('Dark mode activated');
 });
+
