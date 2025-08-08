@@ -107,7 +107,7 @@ Menus = [
     },
     {
         "name": "Rice bowl",
-        "cost": 5,
+        "cost": 10,
         "category": 3,
         "image": "Ricebowl.png"
     },
@@ -397,4 +397,5 @@ $(document).on('click', '.dark-mode', function () {
     //$(".item-info").toggleClass('dark-text');
     console.log('Dark mode activated');
 });
+
 
