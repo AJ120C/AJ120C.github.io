@@ -11,31 +11,31 @@ Categories = {
 Menus = [
     {
         "name": "Lucky Bento Box Combo",
-        "cost": 10000,
+        "cost": 170,
         "category": 1,
         "image": "LuckyBentoBoxCombo.png"
     },
     {
         "name": "9 Lives Combo",
-        "cost": 4000,
+        "cost": 150,
         "category": 1,
         "image": "9LivesCombo.png"
     },
     {
         "name": "Kitty Cat Meal",
-        "cost": 3500,
+        "cost": 150,
         "category": 1,
         "image": "KittyCatMeal.png"
     },
     {
         "name": "Cat Burglar Combo",
-        "cost": 3000,
+        "cost": 70,
         "category": 1,
         "image": "CatBurglarCombo.png"
     },
     {
         "name": "Pawcakes Combo",
-        "cost": 2500,
+        "cost": 90,
         "category": 1,
         "image": "PawcakesCombo.png"
     },
@@ -397,5 +397,6 @@ $(document).on('click', '.dark-mode', function () {
     //$(".item-info").toggleClass('dark-text');
     console.log('Dark mode activated');
 });
+
 
 
