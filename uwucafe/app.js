@@ -236,6 +236,7 @@ Menus = [
         "cost": 10000,
         "category": 6,
         "image": "BM.png"
+    }        
 ]
 
 
@@ -420,6 +421,7 @@ $(document).on('click', '.dark-mode', function () {
     //$(".item-info").toggleClass('dark-text');
     console.log('Dark mode activated');
 });
+
 
 
 
