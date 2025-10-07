@@ -11,79 +11,79 @@ Categories = {
 Menus = [
     {
         "name": "Lucky Bento Box Combo",
-        "cost": 500,
+        "cost": 170,
         "category": 1,
         "image": "LuckyBentoBoxCombo.png"
     },
     {
         "name": "9 Lives Combo",
-        "cost": 300,
+        "cost": 150,
         "category": 1,
         "image": "9LivesCombo.png"
     },
     {
         "name": "Kitty Cat Meal",
-        "cost": 275,
+        "cost": 150,
         "category": 1,
         "image": "KittyCatMeal.png"
     },
     {
         "name": "Cat Burglar Combo",
-        "cost": 260,
+        "cost": 70,
         "category": 1,
         "image": "CatBurglarCombo.png"
     },
     {
         "name": "Pawcakes Combo",
-        "cost": 185,
+        "cost": 90,
         "category": 1,
         "image": "PawcakesCombo.png"
     },
     {
         "name": "Screamers",
-        "cost": 1350,
+        "cost": 125,
         "category": 1,
         "image": "Screamers.png"
     },
     {
         "name": "Death Coffin",
-        "cost": 1350,
+        "cost": 125,
         "category": 1,
         "image": "deathcoffin.png"
     },
     {
         "name": "CaspersGo2",
-        "cost": 1350,
+        "cost": 125,
         "category": 1,
         "image": "Caspersgo2.png"
     },
     {
         "name": "Horrori-Boo",
-        "cost": 1350,
+        "cost": 125,
         "category": 1,
         "image": "horri.png"
     },
     {
         "name": "Boogeyman",
-        "cost": 1350,
+        "cost": 125,
         "category": 1,
         "image": "Boogey.png"
     },
     {
         "name": "California Sushi Roll Platter",
-        "cost": 300,
+        "cost": 50,
         "category": 2,
         "image": "CaliforniaSushiRollPlatter.png"
     },
     {
         "name": "Tempura Dragon Sushi Roll Platter",
-        "cost": 300,
+        "cost": 50,
         "category": 2,
         "image": "TempuraDragonSushiRollPlatter.png"
     },
     {
         "name": "Spicy Girl Sushi Roll Platter",
-        "cost": 300,
+        "cost": 50,
         "category": 2,
         "image": "SpicyGirlSushiRollPlatter.png"
     },
@@ -119,124 +119,123 @@ Menus = [
     },
     {
         "name": "Korean Corn Dogs",
-        "cost": 250,
+        "cost": 20,
         "category": 3,
         "image": "KoreanCornDogs.png"
     },
     {
         "name": "Spooky Spicy Ramen",
-        "cost": 250,
+        "cost": 40,
         "category": 3,
         "image": "spicyramen.png"
     },
     {
         "name": "Spooky Miso Soup",
-        "cost": 250,
+        "cost": 40,
         "category": 3,
         "image": "uwumisosoup.png"
     },
     {
         "name": "Spiders Web Hot Spinach Dip",
-        "cost": 250,
+        "cost": 30,
         "category": 3,
         "image": "spiderswebdip.png"
     },
     {
         "name": "Chorizo Mini Pie",
-        "cost": 250,
+        "cost": 30,
         "category": 3,
         "image": "chorizopie.png"
     },
     {
         "name": "Munckin bat Bucket",
-        "cost": 250,
+        "cost": 25,
         "category": 4,
         "image": "wholebucket.png"
     },
     {
         "name": "Pumpkin Sugar Cookies",
-        "cost": 250,
+        "cost": 20,
         "category": 4,
         "image": "uwucookieplate.png"
     },
     {
         "name": "Spider Doughnut",
-        "cost": 250,
+        "cost": 15,
         "category": 4,
         "image": "spiderdoughnut.png"
     },
     {
         "name": "Mummified Concha",
-        "cost": 250,
+        "cost": 15,
         "category": 4,
         "image": "mummyconcha.png"
     },
     {
         "name": "Graveyard 3 Leches Cake",
-        "cost": 250,
+        "cost": 25,
         "category": 4,
         "image": "uwuflan.png"
     },
     {
         "name": "Bubble Teas",
-        "cost": 350,
+        "cost": 130,
         "category": 5,
         "image": "BubbleTea.png"
     },
     {
         "name": "Pumpkin Spice Frapp",
-        "cost": 400,
+        "cost": 25,
         "category": 5,
         "image": "uwuspookyfrap.png"
     },
     {
         "name": "Pumpkin Cream Cold Brew",
-        "cost": 400,
+        "cost": 30,
         "category": 5,
         "image": "pumpkinccb.png"
     },
     {
         "name": "Witches Iced Potion Latte",
-        "cost": 400,
+        "cost": 30,
         "category": 5,
         "image": "potionlatte.png"
     },
     {
         "name": "Apple Crisp Macchiato",
-        "cost": 400,
+        "cost": 25,
         "category": 5,
         "image": "applecrispm.png"
     },
     {
         "name": "Skully Almond Oatmilk Espresso",
-        "cost": 400,
+        "cost": 20,
         "category": 5,
         "image": "almondoatespresso.png"
     },
     {
-        "name": "Meowcaroons 1",
-        "cost": 1000,
+        "name": "Peppermint Meowcaroon Unlimited Stamina",
+        "cost": 10000,
         "category": 6,
-        "image": "meowcaroons.png"
+        "image": "TurM.png"
     },
     {
-        "name": "Meowcaroons 6",
-        "cost": 6000,
+        "name": "Mint Meowcaroon Armor",
+        "cost": 10000,
         "category": 6,
-        "image": "meowcaroons.png"
+        "image": "GM.png"
     },
     {
-        "name": "Meowcaroons 12",
-        "cost": 12000,
+        "name": "Strawberry Meowcaroon Sprint Boost",
+        "cost":10000,
         "category": 6,
-        "image": "meowcaroons.png"
+        "image": "PinkM.png"
     },
     {
-        "name": "Meowcaroons 20",
-        "cost": 20000,
+        "name": "Chocolate Meowcaroon Healing",
+        "cost": 10000,
         "category": 6,
-        "image": "meowcaroons.png"
-    }
+        "image": "BM.png"
 ]
 
 
@@ -421,6 +420,7 @@ $(document).on('click', '.dark-mode', function () {
     //$(".item-info").toggleClass('dark-text');
     console.log('Dark mode activated');
 });
+
 
 
 
