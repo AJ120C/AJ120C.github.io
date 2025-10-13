@@ -89,31 +89,31 @@ Menus = [
     },
     {
         "name": "Mixed Roll Coffin",
-        "cost": 400,
+        "cost": 30,
         "category": 2,
         "image": "uwumixedtollbox.png"
     },
     {
         "name": "Boo Pot Pie",
-        "cost": 400,
+        "cost": 30,
         "category": 2,
         "image": "uwuBooPotpie.png"
     },
     {
         "name": "Ghostly Bacon Mac & Cheese",
-        "cost": 400,
+        "cost": 30,
         "category": 2,
         "image": "spookymacandcheese.png"
     },
     {
         "name": "Jack-O-Lanter Quesadillas",
-        "cost": 400,
+        "cost": 25,
         "category": 2,
         "image": "pumpkinqeso.png"
     },
     {
         "name": "Ghostly Dumplings",
-        "cost": 400,
+        "cost": 40,
         "category": 2,
         "image": "ghostlydumplings.png"
     },
@@ -421,6 +421,7 @@ $(document).on('click', '.dark-mode', function () {
     //$(".item-info").toggleClass('dark-text');
     console.log('Dark mode activated');
 });
+
 
 
 
